@@ -1,0 +1,449 @@
+[
+  {
+    "claim_understanding": {
+      "summary": "Claimed car issue on rear_bumper described as missing_part.",
+      "primary_issue_type": "missing_part",
+      "primary_object_part": "rear_bumper",
+      "severity_hint": "medium",
+      "explicit_multi_part_claim": false,
+      "suspicious_text_present": false
+    },
+    "image_assessments": [
+      {
+        "image_id": "img_1"
+      }
+    ],
+    "aggregated": {
+      "confidence": 0.05,
+      "observations": [
+        "No valid images were available."
+      ]
+    }
+  },
+  {
+    "claim_understanding": {
+      "summary": "Claimed car issue on front_bumper described as scratch.",
+      "primary_issue_type": "scratch",
+      "primary_object_part": "front_bumper",
+      "severity_hint": "low",
+      "explicit_multi_part_claim": false,
+      "suspicious_text_present": false
+    },
+    "image_assessments": [
+      {
+        "image_id": "img_1"
+      },
+      {
+        "image_id": "img_2"
+      }
+    ],
+    "aggregated": {
+      "confidence": 0.05,
+      "observations": [
+        "No valid images were available."
+      ]
+    }
+  },
+  {
+    "claim_understanding": {
+      "summary": "Claimed car issue on windshield described as crack.",
+      "primary_issue_type": "crack",
+      "primary_object_part": "windshield",
+      "severity_hint": "medium",
+      "explicit_multi_part_claim": false,
+      "suspicious_text_present": false
+    },
+    "image_assessments": [
+      {
+        "image_id": "img_1"
+      },
+      {
+        "image_id": "img_2"
+      }
+    ],
+    "aggregated": {
+      "confidence": 0.05,
+      "observations": [
+        "No valid images were available."
+      ]
+    }
+  },
+  {
+    "claim_understanding": {
+      "summary": "Claimed car issue on side_mirror described as broken_part.",
+      "primary_issue_type": "broken_part",
+      "primary_object_part": "side_mirror",
+      "severity_hint": "unknown",
+      "explicit_multi_part_claim": false,
+      "suspicious_text_present": false
+    },
+    "image_assessments": [
+      {
+        "image_id": "img_1"
+      }
+    ],
+    "aggregated": {
+      "confidence": 0.05,
+      "observations": [
+        "No valid images were available."
+      ]
+    }
+  },
+  {
+    "claim_understanding": {
+      "summary": "Claimed car issue on rear_bumper described as unknown.",
+      "primary_issue_type": "unknown",
+      "primary_object_part": "rear_bumper",
+      "severity_hint": "high",
+      "explicit_multi_part_claim": true,
+      "suspicious_text_present": false
+    },
+    "image_assessments": [
+      {
+        "image_id": "img_1"
+      },
+      {
+        "image_id": "img_2"
+      }
+    ],
+    "aggregated": {
+      "confidence": 0.05,
+      "observations": [
+        "No valid images were available."
+      ]
+    }
+  },
+  {
+    "claim_understanding": {
+      "summary": "Claimed car issue on headlight described as crack.",
+      "primary_issue_type": "crack",
+      "primary_object_part": "headlight",
+      "severity_hint": "medium",
+      "explicit_multi_part_claim": false,
+      "suspicious_text_present": false
+    },
+    "image_assessments": [
+      {
+        "image_id": "img_1"
+      }
+    ],
+    "aggregated": {
+      "confidence": 0.05,
+      "observations": [
+        "No valid images were available."
+      ]
+    }
+  },
+  {
+    "claim_understanding": {
+      "summary": "Claimed car issue on body described as dent.",
+      "primary_issue_type": "dent",
+      "primary_object_part": "body",
+      "severity_hint": "medium",
+      "explicit_multi_part_claim": false,
+      "suspicious_text_present": false
+    },
+    "image_assessments": [
+      {
+        "image_id": "img_1"
+      },
+      {
+        "image_id": "img_2"
+      }
+    ],
+    "aggregated": {
+      "confidence": 0.05,
+      "observations": [
+        "No valid images were available."
+      ]
+    }
+  },
+  {
+    "claim_understanding": {
+      "summary": "Claimed car issue on body described as scratch.",
+      "primary_issue_type": "scratch",
+      "primary_object_part": "body",
+      "severity_hint": "low",
+      "explicit_multi_part_claim": false,
+      "suspicious_text_present": false
+    },
+    "image_assessments": [
+      {
+        "image_id": "img_1"
+      }
+    ],
+    "aggregated": {
+      "confidence": 0.05,
+      "observations": [
+        "No valid images were available."
+      ]
+    }
+  },
+  {
+    "claim_understanding": {
+      "summary": "Claimed laptop issue on screen described as torn_packaging.",
+      "primary_issue_type": "torn_packaging",
+      "primary_object_part": "screen",
+      "severity_hint": "medium",
+      "explicit_multi_part_claim": false,
+      "suspicious_text_present": false
+    },
+    "image_assessments": [
+      {
+        "image_id": "img_1"
+      }
+    ],
+    "aggregated": {
+      "confidence": 0.05,
+      "observations": [
+        "No valid images were available."
+      ]
+    }
+  },
+  {
+    "claim_understanding": {
+      "summary": "Claimed laptop issue on port described as broken_part.",
+      "primary_issue_type": "broken_part",
+      "primary_object_part": "port",
+      "severity_hint": "medium",
+      "explicit_multi_part_claim": false,
+      "suspicious_text_present": false
+    },
+    "image_assessments": [
+      {
+        "image_id": "img_1"
+      },
+      {
+        "image_id": "img_2"
+      }
+    ],
+    "aggregated": {
+      "confidence": 0.05,
+      "observations": [
+        "No valid images were available."
+      ]
+    }
+  },
+  {
+    "claim_understanding": {
+      "summary": "Claimed laptop issue on keyboard described as stain.",
+      "primary_issue_type": "stain",
+      "primary_object_part": "keyboard",
+      "severity_hint": "medium",
+      "explicit_multi_part_claim": false,
+      "suspicious_text_present": false
+    },
+    "image_assessments": [
+      {
+        "image_id": "img_1"
+      }
+    ],
+    "aggregated": {
+      "confidence": 0.05,
+      "observations": [
+        "No valid images were available."
+      ]
+    }
+  },
+  {
+    "claim_understanding": {
+      "summary": "Claimed laptop issue on corner described as dent.",
+      "primary_issue_type": "dent",
+      "primary_object_part": "corner",
+      "severity_hint": "medium",
+      "explicit_multi_part_claim": false,
+      "suspicious_text_present": false
+    },
+    "image_assessments": [
+      {
+        "image_id": "img_1"
+      },
+      {
+        "image_id": "img_2"
+      }
+    ],
+    "aggregated": {
+      "confidence": 0.05,
+      "observations": [
+        "No valid images were available."
+      ]
+    }
+  },
+  {
+    "claim_understanding": {
+      "summary": "Claimed laptop issue on screen described as glass_shatter.",
+      "primary_issue_type": "glass_shatter",
+      "primary_object_part": "screen",
+      "severity_hint": "high",
+      "explicit_multi_part_claim": true,
+      "suspicious_text_present": false
+    },
+    "image_assessments": [
+      {
+        "image_id": "img_1"
+      }
+    ],
+    "aggregated": {
+      "confidence": 0.05,
+      "observations": [
+        "No valid images were available."
+      ]
+    }
+  },
+  {
+    "claim_understanding": {
+      "summary": "Claimed laptop issue on trackpad described as unknown.",
+      "primary_issue_type": "unknown",
+      "primary_object_part": "trackpad",
+      "severity_hint": "unknown",
+      "explicit_multi_part_claim": false,
+      "suspicious_text_present": false
+    },
+    "image_assessments": [
+      {
+        "image_id": "img_1"
+      }
+    ],
+    "aggregated": {
+      "confidence": 0.05,
+      "observations": [
+        "No valid images were available."
+      ]
+    }
+  },
+  {
+    "claim_understanding": {
+      "summary": "Claimed package issue on package_corner described as crushed_packaging.",
+      "primary_issue_type": "crushed_packaging",
+      "primary_object_part": "package_corner",
+      "severity_hint": "medium",
+      "explicit_multi_part_claim": false,
+      "suspicious_text_present": false
+    },
+    "image_assessments": [
+      {
+        "image_id": "img_1"
+      }
+    ],
+    "aggregated": {
+      "confidence": 0.05,
+      "observations": [
+        "No valid images were available."
+      ]
+    }
+  },
+  {
+    "claim_understanding": {
+      "summary": "Claimed package issue on contents described as torn_packaging.",
+      "primary_issue_type": "torn_packaging",
+      "primary_object_part": "contents",
+      "severity_hint": "high",
+      "explicit_multi_part_claim": false,
+      "suspicious_text_present": false
+    },
+    "image_assessments": [
+      {
+        "image_id": "img_1"
+      },
+      {
+        "image_id": "img_2"
+      }
+    ],
+    "aggregated": {
+      "confidence": 0.05,
+      "observations": [
+        "No valid images were available."
+      ]
+    }
+  },
+  {
+    "claim_understanding": {
+      "summary": "Claimed package issue on package_side described as stain.",
+      "primary_issue_type": "stain",
+      "primary_object_part": "package_side",
+      "severity_hint": "medium",
+      "explicit_multi_part_claim": false,
+      "suspicious_text_present": false
+    },
+    "image_assessments": [
+      {
+        "image_id": "img_1"
+      }
+    ],
+    "aggregated": {
+      "confidence": 0.05,
+      "observations": [
+        "No valid images were available."
+      ]
+    }
+  },
+  {
+    "claim_understanding": {
+      "summary": "Claimed package issue on box described as missing_part.",
+      "primary_issue_type": "missing_part",
+      "primary_object_part": "box",
+      "severity_hint": "high",
+      "explicit_multi_part_claim": false,
+      "suspicious_text_present": false
+    },
+    "image_assessments": [
+      {
+        "image_id": "img_1"
+      },
+      {
+        "image_id": "img_2"
+      }
+    ],
+    "aggregated": {
+      "confidence": 0.05,
+      "observations": [
+        "No valid images were available."
+      ]
+    }
+  },
+  {
+    "claim_understanding": {
+      "summary": "Claimed package issue on box described as crushed_packaging.",
+      "primary_issue_type": "crushed_packaging",
+      "primary_object_part": "box",
+      "severity_hint": "medium",
+      "explicit_multi_part_claim": false,
+      "suspicious_text_present": false
+    },
+    "image_assessments": [
+      {
+        "image_id": "img_1"
+      }
+    ],
+    "aggregated": {
+      "confidence": 0.05,
+      "observations": [
+        "No valid images were available."
+      ]
+    }
+  },
+  {
+    "claim_understanding": {
+      "summary": "Claimed package issue on box described as torn_packaging.",
+      "primary_issue_type": "torn_packaging",
+      "primary_object_part": "box",
+      "severity_hint": "medium",
+      "explicit_multi_part_claim": false,
+      "suspicious_text_present": false
+    },
+    "image_assessments": [
+      {
+        "image_id": "img_1"
+      },
+      {
+        "image_id": "img_2"
+      }
+    ],
+    "aggregated": {
+      "confidence": 0.05,
+      "observations": [
+        "No valid images were available."
+      ]
+    }
+  }
+]

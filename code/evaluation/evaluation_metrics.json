@@ -1,0 +1,16 @@
+{
+  "row_count": 20,
+  "exact_match_rate": 0.05,
+  "claim_status_accuracy": 0.1,
+  "evidence_standard_accuracy": 0.1,
+  "issue_type_accuracy": 0.15,
+  "object_part_accuracy": 0.65,
+  "severity_accuracy": 0.1,
+  "grounding_overlap_rate": 0.1,
+  "macro_f1_claim_status": 0.0606,
+  "confusion_matrix": {
+    "contradicted->not_enough_information": 5,
+    "not_enough_information->not_enough_information": 2,
+    "supported->not_enough_information": 13
+  }
+}
